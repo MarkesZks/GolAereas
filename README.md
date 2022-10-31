@@ -1,7 +1,7 @@
 
 
 # Gol Linhas Aereas
-<img src="https://cdn.discordapp.com/attachments/1004926707851083807/1018201403254116392/Header.png" alt="exemplo imagem">
+<img src="https://media.discordapp.net/attachments/460955986581127199/1036702783883190423/unknown.png" alt="exemplo imagem">
 
 Esse projeto foi um desenvolvimento de aplicativo independente com intuito de fornecer serviços a empresa Gol Linhas Aereas
 
