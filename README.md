@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1004926707851083807/1018204409311801404/aaaaaa.gif" alt="exemplo imagem">
+
 
 # Gol Linhas Aereas
 <img src="https://cdn.discordapp.com/attachments/1004926707851083807/1018201403254116392/Header.png" alt="exemplo imagem">
@@ -35,7 +35,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   
    <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/102431464?v=4" width="100px;" alt="Foto do Felipe Rocha "/><br>
+        <img src="https://avatars.githubusercontent.com/u/98479839?v=4" width="100px;" alt="Foto do Felipe Rocha "/><br>
         <sub>
           <b>Felipe Rocha</b>
         </sub>
@@ -44,7 +44,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  
    <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/102431464?v=4" width="100px;" alt="Foto do Mateus Gimenes "/><br>
+        <img src="https://avatars.githubusercontent.com/u/93391980?v=4" width="100px;" alt="Foto do Mateus Gimenes "/><br>
         <sub>
           <b>Mateus Gimenes</b>
         </sub>
@@ -53,7 +53,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   
    <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/102431464?v=4" width="100px;" alt="Foto do Gustavo Neves "/><br>
+        <img src="https://" width="100px;" alt="Foto do Gustavo Neves "/><br>
         <sub>
           <b>Gustavo Neves</b>
         </sub>
