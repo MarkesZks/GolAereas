@@ -32,7 +32,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-  </tr>
+  
    <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/102431464?v=4" width="100px;" alt="Foto do Felipe Rocha "/><br>
@@ -41,7 +41,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-  </tr>
+ 
    <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/102431464?v=4" width="100px;" alt="Foto do Mateus Gimenes "/><br>
@@ -50,7 +50,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-  </tr>
+  
    <td align="center">
       <a href="#">
         <img src="https://avatars.githubusercontent.com/u/102431464?v=4" width="100px;" alt="Foto do Gustavo Neves "/><br>
